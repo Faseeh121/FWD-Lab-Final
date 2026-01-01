@@ -93,7 +93,7 @@ npm start
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 web dev final Lab/
@@ -115,7 +115,7 @@ web dev final Lab/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 **Backend:**
 - Node.js & Express.js
@@ -132,7 +132,7 @@ web dev final Lab/
 
 ---
 
-## 📝 API Endpoints
+##  API Endpoints
 
 ### User Routes (`/api/users`)
 - `POST /register` - Register new user
@@ -148,6 +148,6 @@ web dev final Lab/
 
 ---
 
-## 👥 Author
+##  Author
 
 Web Development Final Lab Project - 5th Semester
